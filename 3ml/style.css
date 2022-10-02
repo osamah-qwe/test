@@ -1,0 +1,48 @@
+html, body, .contenar {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+font-family: sans-serif;
+}
+.table-cont {
+  height: 100%;
+  width: 100%;
+}
+.t3del {
+    width: 114px;
+    border-radius: 50%;
+}
+
+.rtl-side {
+    background: #d91414;
+    width: 323px;
+    color: whitesmoke;
+    font-family: sans-serif;
+    padding-right: 5px;
+    vertical-align: top;
+    padding-top: 5px;
+}
+
+.divider {
+  background-color: #b71111;
+    height: 5px;
+}
+
+.avatar {
+  text-align: center;
+}
+
+.rtl-side a img {
+  width: 99px;
+border-radius: 10px;
+}
+
+.ltr-side {
+  vertical-align: top;
+}
+
+.ltr-side h2 {
+  background-color: brown;
+}
